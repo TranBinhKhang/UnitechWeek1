@@ -1,5 +1,5 @@
 {
-    {   
+    "folders": [{   
         "id": 1,
         "name": "DuLieu",
         "isOpened": true,
@@ -78,4 +78,5 @@
         "showEdit": false,
         "parent": 8,
     },
+    ]
 }
